@@ -1,0 +1,327 @@
+\documentclass[a4paper,
+               10pt,
+               fleqn]{article}
+
+\author{Ervin Mazlagic}
+\title{Paper Manual}
+
+\usepackage{luxpaper}
+\usepackage{luxtitle}
+ 
+\begin{document}
+\luxtitle{Statuten}                             % Dokumentenart
+         {LuXeria Statuten}                     % Titel
+         {Ervin Mazlagi\'c\\Michael Zihlmann}   % Autor
+         {Adligenswil}                          % Ort
+         {2012}                                 % Jahr
+
+\tableofcontents
+\newpage
+
+%%%%%%%%%%
+
+
+\section*{Präambel}
+Um die Lesbarkeit des vorliegenden Textes zu
+erleichtern, wird auf die Doppelformulierung weiblich /
+männlich verzichtet. Selbstverständlich sind in der
+verwendeten maskulinen Form Männer und Frauen inbegriffen.
+
+\section{Name, Sitz und Bestand}
+
+\subsubsection*{Artikel §1}
+Unter dem Namen Lu\textbf{X}eria besteht ein Verein im
+Sinne von Art. 60 ff. ZGB mit Sitz in Luzern. Der
+Verein wurde wurde am 24.02.2010 gegründet, ist auf
+unbestimmte Zeit angelegt und endet mit dessen Auflösung.
+\begin{itemize}
+\item Der Verein ist politisch und konfessionell neutral 
+und unabhängig.
+\item Der Sitz und der Gerichtsstand befindet sich in
+Luzern.
+\end{itemize}
+
+\section{Zweck}
+
+\subsubsection*{Artikel §2}
+Der Verein bezweckt die Förderung des Erfahrungsaustausches 
+zwischen Technikinteressierten, sowie die Pflege der
+Kameradschaft unter den Mitgliedern.\newline \newline
+Folgendes sind die Hauptaktivitäten des Vereins:
+\begin{itemize}
+\item Einsatz von OpenSource-Betriebssystemen wie Linux und
+ quelloffenen Applikationen fördern.
+\item Intressierten Personen den Einstieg in die Benutzung 
+von quelloffenen Systemen zu ermöglichen und zu erleichtern.
+\item Austausch von technischen Informationen.
+\item Durchführung von gemeinsamen Projekten.
+\item Wöchentliches Treffen für den Erfahrungsaustausch.
+\end{itemize}
+
+\section{Mitgliedschaft}
+
+\subsubsection*{Artikel §3}
+Der Verein besteht aus Aktivmitgliedern, Passivmitgliedern, 
+Ehrenmitgliedern und Gönnern. Als Mitglieder können alle
+natürlichen und juristischen Personen aufgenommen werden.
+
+\subsection{Aufnahme}
+
+\subsubsection*{Artikel §4}
+Die Mitgliedschaft wird mit schriftlicher oder mündlicher 
+Beitrittserklärung und durch Bezahlen des
+Mitgliederbeitrages erworben.
+
+\subsection{Erlöschen der Mitgliedschaft}
+
+\subsubsection*{Artikel §5}
+Die Mitgliedschaft erlischt
+\begin{itemize}
+\item bei natürlichen Personen durch Austritt, Ausschluss 
+oder Tod
+\item bei juristischen Personen durch Austritt, Ausschluss 
+oder Auflösung
+\item automatisch mit der Auflösung des Vereins
+\end{itemize}
+
+\subsubsection*{Artikel §6}
+Der Austritt ist durch schriftliche Erklärung an den 
+Vorstand auf Ende des Kalenderjahres möglich.
+
+\subsection{Ausschluss}
+
+\subsubsection*{Artikel §7}
+Mitglieder, deren Verhalten den Statuten widerspricht oder
+den Vereinszwecken abträglich ist oder die ihren
+Mitgliederbeitrag trotz Mahnung nicht bezahlen, werden durch
+den Vorstand aus dem Verein ausgeschlossen. Der Ausschluss
+muss vom Vorstand nicht weiter begründet oder kommentiert
+werden.
+
+\subsection{Aktivmitglieder}
+
+\subsubsection*{Artikel §8}
+Alle Interessierten können Aktivmitglied des Vereins werden.
+
+\subsubsection*{Artikel §9}
+Jedes Aktivmitglied hat bei Abstimmungen eine Stimme. 
+Vertretungen sind nicht möglich.
+
+\subsection{Passivmitglieder}
+
+%\subsubsection*{Artikel §10}
+%\textit{Dieser Artikel ist in den Statuten nicht vorhanden (Quelle: www.luxeria.ch)}
+
+\subsubsection*{Artikel §10}
+Passivmitglieder sind natürliche oder juristische Personen, 
+welche die Mitgliedschaft wünschen und den jährlichen, von
+der Mitgliederversammlung beschlossenen
+Passivmitgliederbeitrag bezahlen.
+
+\subsubsection*{Artikel §11}
+Passivmitglieder werden zu den Mitgliederversammlungen 
+eingeladen, haben jedoch kein Stimm- und Wahlrecht.
+
+\subsection{Ehrenmitglieder}
+
+\subsubsection*{Artikel §12}
+Ehrenmitglieder sind Personen, welche sich durch persönliche
+oder finanzielle Leistungen für den Verein besonders
+eingesetzt haben.
+
+Sie können von einer Mitgliederversammlung auf Antrag 
+ernannt beziehungsweise aberkannt werden. Sie sind den
+Aktivmitgliedern gleichgestellt, bezahlen aber keinen
+Aktivmitgliederbeitrag.
+
+\subsection{Gönner}
+
+\subsubsection*{Artikel §13}
+Gönner bzw. Sponsoren sind alle Personen, Organisationen 
+oder Firmen, welche die Ziele des Vereins akzeptieren und
+den Verein finanziell unterstützen möchten.
+
+\section{Organe}
+
+\subsubsection*{Artikel §14}
+Die Organe des Vereins sind:
+\begin{itemize}
+\item die Mitgliederversammlung
+\item der Vorstand
+\end{itemize}
+
+\subsection{Mitgliederversammlung}
+
+\subsubsection*{Artikel §15}
+Das oberste Organ des Vereins ist die Mitgliederversammlung.
+ Die ordentliche Mitgliederversammlung findet jährlich
+jeweils im ersten Quartal statt.
+
+Die Einladung an die Mitglieder und Gönner erfolgt 
+schriftlich mit der Traktandenliste mindestens 30 Tage im
+voraus.
+
+Über Geschäfte, die in der Traktandenliste nicht aufgeführt 
+sind, muss kein Beschluss gefasst werden.
+
+\subsubsection*{Artikel §16}
+Jedes Mitglied hat das Recht, Anträge zuhanden der nächsten 
+Mitgliederversammlung zu stellen.
+
+Derartige Anträge sind in die Traktandenliste aufzunehmen, 
+sofern sie dem Vorstand schriftlich und begründet bis 20
+Tage vor der Versammlung zugestellt wurden.
+
+\newpage
+\subsubsection*{Artikel §17}
+Die Mitgliederversammlung hat die folgenden Aufgaben:
+\begin{itemize}
+\item Wahl des Präsidenten, des Vorstandes sowie des 
+Rechnungsrevisors.
+\item Festsetzung und Änderung der Statuten.
+\item Abnahme der Jahresrechnung und des Revisorenberichtes.
+\item Kenntnisnahme des Jahresberichtes des Präsidenten 
+oder des Vorstandes.
+\item Entlastung des Vorstandes, des Kassiers und der 
+Rechnungsrevisoren.
+\item Beschlussfassung über das Jahresbudget.
+\item Festsetzung der Mitgliederbeiträge.
+\item Behandlung von Anträgen des Vorstandes oder von 
+Mitgliedern sowie der Ausschlussrekurse.
+\item Auflösung des Vereins.
+\end{itemize}
+
+\subsubsection*{Artikel §18}
+An der Mitgliederversammlung besitzt jedes Aktive Mitglied 
+eine Stimme. Die Beschlussfassung erfolgt mit einfachem Mehr
+der anwesenden Stimmberechtigten. 
+Der Präsident bringt im Falle eines Gleichstandes den 
+Stichentscheid.
+
+\subsection{Vorstand}
+
+\subsubsection*{Artikel §19}
+Der Vorstand besteht aus mindestens vier gewählten 
+Aktivmitgliedern.
+
+Er besteht namentlich aus:
+\begin{itemize}
+\item Präsident
+\item Vizepräsident
+\item Kassier
+\item Aktuar
+\end{itemize}
+ 
+\subsubsection*{Artikel §20}
+Der Vorstand wird für die Dauer von einem Jahr gewählt und 
+ist nach Ablauf derselben wieder wählbar.
+
+Er ist berechtigt, in der Zwischenzeit entstandene Vakanzen 
+bis zur nächsten Mitgliederversammlung provisorisch zu
+besetzen. Die Vorstandsmitglieder sind ehrenamtlich tätig
+und haben grundsätzlich nur Anspruch auf Entschädigung ihrer
+effektiven Spesen und Barauslagen für den Verein.
+
+\section{Finanzen}
+
+\subsection*{Artikel §21}
+Vorstandsmitlieder können im Laufe des geltenden 
+Kalenderjahres über Finanzmittel in Höhe des zweifachen
+Mitgliederbeitrages frei verfügen. Überschreitungen sind
+durch eine Mitgliederversammlung zu genehmigen.
+
+\subsection{Unterschrift}
+
+\subsubsection*{Artikel §22}
+Für den laufenden Geldverkehr zeichnet der Präsident oder 
+der Kassier mit Einzelunterschrift.
+
+\subsection{Rechnungswesen}
+
+\subsubsection*{Artikel §22}
+Das Rechnungsjahr fällt mit dem Kalenderjahr zusammen. Für
+den Geldverkehr ist ein Post- und/oder Bankkonto zu
+eröffnen. Der Kassier führt die Buchhaltung.
+
+\subsubsection*{Artikel §23}
+Der Verein finanziert sich aus folgenden Mitteln:
+\begin{itemize}
+\item Jahresbeiträge der Mitglieder
+\item Spenden und Gönnerbeiträge
+\item Erlöse aus Aktionen, Projekten und Veranstaltungen
+\item Erträge des Vereinsvermögens
+\end{itemize}
+ 
+\subsubsection*{Artikel §24}
+Die Mitgliederversammlung legt die Höhe der Jahresbeiträge 
+für die Aktiv- und Passivmitglieder fest.
+
+\subsection{Mitgliederbeiträge}
+
+\subsubsection*{Artikel §25}
+Die Mitgliederbeiträge sind innerhalb von 60 Tagen nach der 
+Mitgliederversammlung zu bezahlen.
+
+Bezahlte Mitgliederbeiträge werden bei Austritt oder 
+Ausschluss nicht zurück erstattet.
+
+\subsection{Haftung}
+
+\subsubsection*{Artikel §26}
+Der Verein haftet nur mit dem Vereinsvermögen. Eine
+persönliche Haftung der Mitglieder ist ausdrücklich
+ausgeschlossen.
+
+\subsection{Vereinsvermögen}
+
+\subsubsection*{Artikel §27}
+Austretende oder ausgeschlossene Mitglieder haben keinen 
+Anspruch auf Teile des Vereinsvermögens.
+
+\section{Statuten}
+
+\subsubsection*{Artikel §28}
+Die Statuten sind von der Gründungs- oder 
+Mitgliederversammlung zu genehmigen.
+
+Abänderungsvorschläge müssen schriftlich vorliegen.
+Zur Genehmigung von Statutenänderungen ist die absolute
+Mehrheit der anwesenden, stimmberechtigten Mitglieder
+erforderlich.
+
+\section{Auflösung des Vereins}
+
+\subsubsection*{Artikel §29}
+Die Auflösung des Vereins kann nur durch eine
+ausschliesslich zu diesem Zweck einberufene,
+ausserordentliche Mitgliederversammlung beschlossen werden,
+an der mindestens zwei Drittel der Aktivmitglieder anwesend
+sind.
+
+Trifft dies nicht zu, so ist innerhalb von vier Wochen eine 
+zweite Mitgliederversammlung einzuberufen, die ohne
+Rücksicht auf die Zahl der anwesenden Mitglieder
+beschlussfähig ist.
+
+\section{Schlussbestimmungen}
+
+\subsubsection*{Artikel §30}
+Im Falle der Liquidation muss das Vereinsvermögen einer oder
+ mehreren gemeinnützigen Organisationen, welche den gleichen
+oder einen ähnlichen Zweck verfolgen überwiesen werden. Im
+Falle dass keine Einigung zu Stande kommt, wird das
+Vereinsvermögen der Gemeinde oder dem Amt überwiesen, in 
+welcher sich der Sitz des Vereins befindet.
+
+Die ausserordentliche Mitgliederversammlung legt die Details
+dieses Beschlusses fest.
+
+\section{Inkrafttreten}
+Diese Statuten sind per Zirkularbeschluss vom
+\today~angenommen worden und sind mit diesem Datum in Kraft
+getreten.
+
+
+%%%%%%%%%%
+
+\end{document}
