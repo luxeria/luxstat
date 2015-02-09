@@ -42,4 +42,9 @@ eine Struktur vorgegeben welche beachtet werden soll.
         * `obj/` (Verzeichnis für das generierte PDF)
         * `packagages/` (Verzeichnis für eigene LaTeX-Stylefiles)
         * LuXeria_Statuten.tex (Main des LaTeX Projektes)
-        * Makefile (Makefile für die Statuten) 
+        * Makefile (Makefile für die Statuten)
+
+### Änderungen
+Um Änderungen zum aktuellen Release deutlich zu kennzeichnen, gibt es ein
+Commando `\change{}` mit welchem der damit angegebene Text fett und rot
+geschrieben wird.
