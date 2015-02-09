@@ -1,6 +1,10 @@
+# LaTeX dumps
 *.aux
 *.log
 *.nav
 *.out
 *.snm
 *.toc
+
+# PDF Dateien
+*.pdf
