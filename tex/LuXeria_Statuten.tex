@@ -1,0 +1,33 @@
+\documentclass[a4paper,10pt,]{article}
+
+\author{Ervin Mazlagic \and Michael Zihlmann}
+\title{Paper Manual}
+
+\usepackage{packages/luxpaper}
+\usepackage{packages/luxtitle}
+
+\newcounter{artnumber}
+\setcounter{artnumber}{1}
+
+\newcommand{\articlenumber}[0]{
+	\arabic{artnumber}
+	\stepcounter{artnumber}
+}
+ 
+\begin{document}
+\luxtitle{Statuten}                             % Dokumentenart
+         {LuXeria Statuten}                     % Titel
+         {Ervin Mazlagi\'c\\Michael Zihlmann}   % Autor
+         {Adligenswil}                          % Ort
+         {2015}                                 % Jahr
+
+\tableofcontents
+\newpage
+
+%%%%%%%%%%
+
+\input{content/contents}
+
+%%%%%%%%%%
+
+\end{document}
