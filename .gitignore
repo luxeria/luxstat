@@ -6,5 +6,5 @@
 *.snm
 *.toc
 
-# PDF Dateien
-*.pdf
+# LaTeX-Output
+**/obj
