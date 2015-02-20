@@ -46,5 +46,15 @@ eine Struktur vorgegeben welche beachtet werden soll.
 
 ### Änderungen
 Um Änderungen zum aktuellen Release deutlich zu kennzeichnen, gibt es ein
-Commando `\change{}` mit welchem der damit angegebene Text fett und rot
-geschrieben wird.
+Commando `\change` mit welchem man Änderungen markieren kann. Hierbei stehen
+die Parameter 'add' und 'remove' zur Verfügung
+
+#### add
+```tex
+\change{add}{Ein neuer Text.}
+```
+
+#### remove
+```tex
+\change{remove}{Ein alter Text.}
+```
