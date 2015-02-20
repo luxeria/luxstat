@@ -18,6 +18,7 @@ doc:
 	for i in {1..5}; \
 		do pdflatex $(DOCUMENT).tex; \
 	done
+	mkdir -p obj
 	mv $(DOCUMENT).pdf $(OBJECT_DIR)/.
 
 clean:
